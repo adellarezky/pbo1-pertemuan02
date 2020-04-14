@@ -5,3 +5,4 @@ public class Database{
   System.out.println("Database Terhubung..");
  }
 }
+
